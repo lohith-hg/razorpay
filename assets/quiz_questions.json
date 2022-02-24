@@ -1,0 +1,261 @@
+{
+    "questions":[
+        {
+            "id":"1081",
+            "isMultiChoice":false,
+            "imageUrl":"https://factsofindonesia.com/wp-content/uploads/2021/01/indonesian-children-songs.jpg",
+            "question":"Why use question–answer relationship?",
+            "options":[
+                {"id":"10811", "option":"It can improve students' reading comprehension.","isCorrect":true},
+                {"id":"10812", "option":"It teaches students how to ask questions about their","isCorrect":false},
+                {"id":"10813",  "option":"It helps students to think about the text they are","isCorrect":false},
+                {"id":"10814", "option":"It inspires them to think creatively and work","isCorrect":false}]
+        },
+        {
+            "id":"1072",
+            "isMultiChoice":false,
+            "imageUrl":"https://cracku.in/blog/wp-content/uploads/2019/09/fig-30-09-2019_11-10-41.jpg",
+            "question":"Nothing can compensate ............ the loss of one's health. Fill in the with appropiate preposition",
+            "options":[
+                {"id":"10721", "option":"to","isCorrect":false},
+                {"id":"10722", "option":"on","isCorrect":false},
+                {"id":"10723",  "option":"with","isCorrect":true},
+                {"id":"10724",  "option":"for","isCorrect":true}]
+        },
+        {
+            "id":"1063",
+            "isMultiChoice":true,
+            "imageUrl":"https://soruvecevaplar.com/wp-content/uploads/2020/09/osym-cikmis-sorular-1200x900.png",
+            "question":"Which of these numbers have more tens? ",
+            "options":[
+                {"id":"10631", "option":"879","isCorrect":true},
+                {"id":"10632", "option":"789","isCorrect":true},
+                {"id":"10633",  "option":"997","isCorrect":true},
+                { "id":"10634", "option":"907","isCorrect":true}
+            ]
+        },
+        {
+            "id":"1054",
+            "isMultiChoice":false,
+            "imageUrl":"https://image.shutterstock.com/image-photo/high-school-college-students-studying-600w-770131126.jpg",
+            "question":"The number just before 9990 is ____. ",
+            "options":[
+                {"id":"10541", "option":"9991","isCorrect":true},
+                {"id":"10542", "option":"'9909","isCorrect":true},
+                {"id":"10543", "option":"'9989","isCorrect":true},
+                {"id":"10544",  "option":"9988","isCorrect":false}]
+        },
+        {
+            "id":"1401",
+            "isMultiChoice":false,
+            "imageUrl":"https://static.vecteezy.com/system/resources/previews/000/124/050/original/childrens-day-silhouette-vector.jpg",
+            "question":"This is Question number 5 this question is a demmy question created for testing the responsiveness.The place value of 2 in in 2548 is _____. ",
+            "options":[
+                {"id":"10811", "option":"200","isCorrect":true},
+                {"id":"10811", "option":"2020","isCorrect":false},
+                {"id":"10811",  "option":"2000","isCorrect":false},
+                {"id":"10811",  "option":"2002","isCorrect":false}]
+        },
+        {
+            "id":"1302",
+            "isMultiChoice":false,
+            "imageUrl":"https://cracku.in/blog/wp-content/uploads/2019/09/fig-30-09-2019_11-10-41.jpg",
+            "question":"How many numbers have exactly 2 digits?",
+            "options":[
+                {"id":"10811", "option":"99","isCorrect":false},
+                {"id":"10811", "option":"98","isCorrect":false},
+                {"id":"10811",  "option":"91","isCorrect":true}]
+        },
+        {
+            "id":"1203",
+            "isMultiChoice":false,
+            "imageUrl":"https://www.belekomahaber.com/wp-content/uploads/2020/06/yuksekogretim-kurumlari-sinavina-girecek-adaylar-dikkat-bilecik-haber.jpg",
+            "question":"The ____ 3 digit number is the predecessor of the smallest 4 digit number. ",
+            "options":[
+                {"id":"10811", "option":"Smallest","isCorrect":true},
+                {"id":"10811", "option":"Largest","isCorrect":false},
+                {"id":"10811", "option":"Same","isCorrect":false},
+                {"id":"10811",  "option":"None of the Above","isCorrect":false}]
+        },
+        {
+            "id":"1104",
+            "isMultiChoice":false,
+            "imageUrl":"https://slideplayer.com/slide/12224326/72/images/2/National+education+model%3A+levels.jpg",
+            "question":"_____ is the smallest 4 digit numeral formed by the digits 8,0,6,7. ",
+            "options":[
+                {"id":"10811", "option":"0678","isCorrect":true},
+                {"id":"10811", "option":"7068","isCorrect":true},
+                {"id":"10811", "option":"6078","isCorrect":true},
+                 {"id":"10811", "option":"7086","isCorrect":false}]
+        },
+        {
+            "id":"10424",
+            "isMultiChoice":false,
+            "imageUrl":"https://cf.ppt-online.org/files/slide/1/1fBgqVnLsDOF4KWj8aQbEkTGxmJZrYAv5SCwMi/slide-3.jpg",
+            "question":"The sum of the place value and face value of 5 in 2548 is ______. ",
+            "options":[
+                {"id":"10811", "option":"500","isCorrect":false},
+                {"id":"10811", "option":"550","isCorrect":false},
+                {"id":"10811", "option":"055","isCorrect":true},
+                {"id":"10811",  "option":"505","isCorrect":false}]
+        },
+        {
+            "id":"10032",
+            "isMultiChoice":false,
+            "imageUrl":"https://image.shutterstock.com/image-photo/drawing-class-her-favorite-preschool-600w-1228645234.jpg",
+            "question":"______ has no predecessor. ",
+            "options":[
+                {"id":"10811", "option":"Zero","isCorrect":true},
+                {"id":"10811", "option":"One","isCorrect":false},
+                {"id":"10811", "option":"Ten","isCorrect":false},
+                {"id":"10811", "option":"Hundred","isCorrect":false}]
+        },
+        {
+            "id":"10022",
+            "isMultiChoice":false,
+            "imageUrl":"https://slideplayer.info/slide/13925841/85/images/18/Teknik+dan+Instrumen+Penilaian.jpg",
+            "question":"The sum of the largest 3 digit number and the smallest 2 digit number is _______. ",
+            "options":[
+                {"id":"10811", "option":"1090","isCorrect":false},
+                {"id":"10811", "option":"1900","isCorrect":false},
+                {"id":"10811", "option":"9001","isCorrect":false},
+                {"id":"10811",  "option":"1009","isCorrect":true}]
+        },
+        {
+            "id":"10012",
+            "isMultiChoice":false,
+            "imageUrl":"https://image.shutterstock.com/image-photo/business-man-accounting-calculating-cost-600w-1176159439.jpg",
+            "question":"The number system contains _____ digits. ",
+            "options":[
+                {"id":"10811", "option":"9","isCorrect":true},
+                {"id":"10811", "option":"10","isCorrect":true},
+                {"id":"10811", "option":"8","isCorrect":true},
+                {"id":"10811",  "option":"100","isCorrect":false}]
+        },
+        {
+            "id":"10004",
+            "isMultiChoice":false,
+            "imageUrl":"https://images.slideplayer.com/13/4060349/slides/slide_3.jpg",
+            "question":"_____ place lies left to the hundreds place in a numeral. ",
+            "options":[
+                {"id":"10811", "option":"Ones","isCorrect":true},
+                {"id":"10811", "option":"Tens","isCorrect":true},
+                {"id":"10811", "option":"Hundreds","isCorrect":true},
+                { "id":"10811", "option":"Thousands","isCorrect":false}]
+        },
+        {
+            "id":"10094",
+            "isMultiChoice":false,
+            "imageUrl":"https://i.ytimg.com/vi/pvuB_edYTtk/maxresdefault.jpg",
+            "question":"The difference between the place values of 9 and 2 in the numeral 9542 is ______ ",
+            "options":[
+                {"id":"10811", "option":"9988","isCorrect":true},
+                {"id":"10811", "option":"8998","isCorrect":true},
+                {"id":"10811", "option":"8899","isCorrect":true},
+                {"id":"10811",  "option":"9889","isCorrect":false}]
+        },{
+            "id":"10084",
+            "isMultiChoice":false,
+            "imageUrl":"https://www.unikglobalservices.com/wp-content/uploads/2015/11/iStock_000044886808_Full.jpg",
+            "question":"We get the largest 4-digit numeral by adding one to ______ ",
+            "options":[
+                {"id":"10811", "option":"9899","isCorrect":true},
+                {"id":"10811", "option":"9989","isCorrect":true},
+                {"id":"10811", "option":"9998","isCorrect":true},
+                {"id":"10811",  "option":"9980","isCorrect":false}]
+        },{
+            "id":"10074",
+            "isMultiChoice":false,
+            "imageUrl":"https://cdn0.peopleimages.com/picture/2016/1409942-i-dont-know-how-we-studied-before-technology-zoom_90.jpg",
+            "question":"We get the sum of the smallest 4-digit number and the largest 3-digit number by subtracting one from ______ ",
+            "options":[
+                {"id":"10811", "option":"2000","isCorrect":true},
+                {"id":"10811", "option":"1999","isCorrect":true},
+                {"id":"10811", "option":"2001","isCorrect":true},
+                {"id":"10811",  "option":"1998","isCorrect":false}]
+        },
+        {
+            "id":"10064",
+            "isMultiChoice":false,
+            "imageUrl":"https://www.rpcollege.bc.ca/images/home-page/front-page3.png",
+            "question":"How many numbers have exactly 3 digit? ",
+            "options":[
+                {"id":"10811", "option":"909","isCorrect":true},
+                {"id":"10811", "option":"90","isCorrect":true},
+                {"id":"10811", "option":"900","isCorrect":true},
+                {"id":"10811",  "option":"99","isCorrect":false}]
+        },
+        {
+            "id":"10054",
+            "isMultiChoice":false,
+            "imageUrl":"https://www.hotelwifi.com/wp-content/uploads/2016/06/university.jpg",
+            "question":"This is Question number 18",
+            "options":[
+                {"id":"10811", "option":"Q1 OP1","isCorrect":true},
+                {"id":"10811", "option":"Q1 OP1","isCorrect":true},
+                {"id":"10811", "option":"Q1 OP1","isCorrect":true},
+                {"id":"10811",  "option":"Q1 OP1","isCorrect":false}]
+        },
+        {
+            "id":"10034",
+            "isMultiChoice":false,
+            "imageUrl":"https://slideplayer.com/slide/15325294/92/images/10/To+solve+environmental+problems+we+should.jpg",
+            "question":"The sum of the largest and the smallest number formed form the digits 0,2,6,5 is _______ ",
+            "options":[
+                {"id":"10811", "option":"8675","isCorrect":true},
+                {"id":"10811", "option":"8756","isCorrect":true},
+                {"id":"10811", "option":"8657","isCorrect":true},
+                {"id":"10811",  "option":"8576","isCorrect":false}]
+        },{
+            "id":"10024",
+            "isMultiChoice":false,
+            "imageUrl":"https://thumbs.dreamstime.com/z/children-kids-diversity-friendship-happiness-cheerful-concept-56679027.jpg",
+            "question":"We get the sum of the smallest 4-digit number and the largest 3-digit number by subtracting one from ______ ",
+            "options":[
+                {"id":"10811", "option":"2000","isCorrect":true},
+                {"id":"10811", "option":"1999","isCorrect":true},
+                {"id":"10811", "option":"2001","isCorrect":false},
+                { "id":"10811", "option":"1998","isCorrect":false}]
+        },{
+            "id":"10014",
+            "isMultiChoice":false,
+            "imageUrl":"https://thumbs.dreamstime.com/z/group-kindergarten-kids-friends-arm-around-sitting-smilin-smiling-fun-97130789.jpg",
+            "question":"How many numbers have exactly 3 digit? ",
+            "options":[
+                {"id":"10811", "option":"909","isCorrect":true},
+                {"id":"10811", "option":"90","isCorrect":true},
+                {"id":"10811", "option":"900","isCorrect":true},
+                {"id":"10811",  "option":"99","isCorrect":false}]
+        },{
+            "id":"10071",
+            "isMultiChoice":false,
+            "imageUrl":"https://sandianet.com/thailand/bDSC_0119.jpg",
+            "question":"The sum of the largest and the smallest number formed form the digits 0,2,6,5 is _______ ",
+            "options":[
+                {"id":"10811", "option":"8675","isCorrect":true},
+                {"id":"10811", "option":"8756","isCorrect":true},
+                {"id":"10811", "option":"8657","isCorrect":true},
+                { "id":"10811", "option":"8576","isCorrect":false}]
+        },{
+            "id":"10046",
+            "isMultiChoice":false,
+            "imageUrl":"https://cdn.hipwallpaper.com/i/17/8/QCfI26.jpg",
+            "question":"While comparing numbers, a number having ______ digits is greater. ",
+            "options":[
+                {"id":"10811", "option":"More","isCorrect":true},
+                {"id":"10811", "option":"Zero","isCorrect":true},
+                {"id":"10811", "option":"Less","isCorrect":true},
+                { "id":"10811", "option":"Same","isCorrect":false}]
+        },{
+            "id":"10064",
+            "isMultiChoice":false,
+            "imageUrl":"https://cdn.hipwallpaper.com/i/17/8/QCfI26.jpg",
+            "question":"While comparing numbers, a number having ______ digits is greater. ",
+            "options":[
+                {"id":"10641", "option":"More","isCorrect":true},
+                {"id":"10642", "option":"Zero","isCorrect":true},
+                {"id":"10643", "option":"Less","isCorrect":true},
+                {"id":"10644",  "option":"Same","isCorrect":false}]
+        }
+    ]
+}
